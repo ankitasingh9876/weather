@@ -1,0 +1,13 @@
+.card
+{
+height:800px;
+width:500px;
+border:2px solid ;
+background-color:#459ad6;
+margin:70px;
+}
+.wether
+{
+	text-align:card;
+}
+
